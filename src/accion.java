@@ -17,7 +17,7 @@ public class accion implements Cloneable{
     cantidad=1;
     }
     
-    
+    //cambio para comprobar funcionamiento. DAW PABLO MORENO
     
     public accion(int mes, int dia, int tipo, int cantidad){
     if(dia<1 || dia>31){
