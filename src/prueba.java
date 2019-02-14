@@ -12,6 +12,7 @@ public class prueba {
          
          boolean correcto=false;
          //esto es la prueba del soso de pablo moreno cantos rodados
+         //2 prueba
      
      for(int i=0;i<gestion.size();i++){
         
